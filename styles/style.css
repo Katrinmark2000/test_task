@@ -20,8 +20,8 @@
     margin-bottom: 80px;
 }
 .hero__badge {
-  font-size: 1rem;
-    text-transform: uppercase;
+  font-size: clamp(0.8rem, 2vw, 1rem);
+  text-transform: uppercase;
 }
 .hero__title {
   padding-top: 0.7rem;
@@ -207,5 +207,11 @@ padding: 0.5rem 1rem;
   }
   .filters__search {
     padding-top: 20px;
+  }
+  .search-icon {
+    top: 32px;
+  }
+  .courses__list {
+    padding-top: 2rem;
   }
 }
