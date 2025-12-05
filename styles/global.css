@@ -1,0 +1,57 @@
+:root {
+  --font-Lato-bold: 'Lato-Bold', sans-serif;
+  --font-Lato-regular: 'Lato-Regular', sans-serif;
+  --main-text-size: 16px;
+  --second-text-size: 18px;
+  --small-text-size: 14px;
+  --second-text-color: #9A9CA5;
+  --accent-color: #FF3F3A;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #fff;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+button,
+input {
+  color: currentColor;
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}

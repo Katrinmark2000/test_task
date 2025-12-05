@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "title": "The Ultimate Google Ads Training Course",
+    "category": "Marketing",
+    "instructor": "Jerome Bell",
+    "price": 100,
+    "currency": "USD",
+    "image": "assets/image/instructors/jerome_bell.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Product Management Fundamentals",
+    "category": "Management",
+    "instructor": "Marvin McKinney",
+    "price": 480,
+    "currency": "USD",
+    "image": "assets/image/instructors/Marvin_McKinney.jpg"
+  },
+  {
+    "id": "3",
+    "title": "HR  Management and Analytics",
+    "category": "HR & Recruting",
+    "instructor": "Leslie Alexander Li",
+    "price": 200,
+    "currency": "USD",
+    "image": "assets/image/instructors/Leslie_Alexander Li.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Brand Management & PR Communications",
+    "category": "Marketing",
+    "instructor": "Kristin Watson",
+    "price": 530,
+    "currency": "USD",
+    "image": "assets/image/instructors/Kristin_Watson.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Graphic Design Basic",
+    "category": "Design",
+    "instructor": "Guy Hawkins",
+    "price": 500,
+    "currency": "USD",
+    "image": "assets/image/instructors/Guy_Hawkins.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Business Development Management",
+    "category": "Management",
+    "instructor": "Dianne Russell",
+    "price": 400,
+    "currency": "USD",
+    "image": "assets/image/instructors/Dianne_Russell.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Highload Software Architecture",
+    "category": "Development",
+    "instructor": "Brooklyn Simmons",
+    "price": 600,
+    "currency": "USD",
+    "image": "assets/image/instructors/Brooklyn_Simmons.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Human Resources – Selection and Recruitment",
+    "category": "HR & Recruting",
+    "instructor": "Kathryn Murphy",
+    "price": 150,
+    "currency": "USD",
+    "image": "assets/image/instructors/Kathryn_Murphy.jpg"
+  },
+  {
+    "id": "9",
+    "title": "User Experience. Human-centered Design",
+    "category": "Design",
+    "instructor": "Cody Fisher",
+    "price": 240,
+    "currency": "USD",
+    "image": "assets/image/instructors/Cody_Fisher.jpg"
+  },
+  {
+    "id": "10",
+    "title": "The Ultimate Google Ads Training Course",
+    "category": "Marketing",
+    "instructor": "Jerome Bell",
+    "price": 100,
+    "currency": "USD",
+    "image": "assets/image/instructors/jerome_bell.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Product Management Fundamentals",
+    "category": "Management",
+    "instructor": "Marvin McKinney",
+    "price": 480,
+    "currency": "USD",
+    "image": "assets/image/instructors/Marvin_McKinney.jpg"
+  },
+  {
+    "id": "12",
+    "title": "HR  Management and Analytics",
+    "category": "HR & Recruting",
+    "instructor": "Leslie Alexander Li",
+    "price": 200,
+    "currency": "USD",
+    "image": "assets/image/instructors/Leslie_Alexander Li.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Brand Management & PR Communications",
+    "category": "Marketing",
+    "instructor": "Kristin Watson",
+    "price": 530,
+    "currency": "USD",
+    "image": "assets/image/instructors/Kristin_Watson.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Graphic Design Basic",
+    "category": "Design",
+    "instructor": "Guy Hawkins",
+    "price": 500,
+    "currency": "USD",
+    "image": "assets/image/instructors/Guy_Hawkins.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Business Development Management",
+    "category": "Management",
+    "instructor": "Dianne Russell",
+    "price": 400,
+    "currency": "USD",
+    "image": "assets/image/instructors/Dianne_Russell.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Highload Software Architecture",
+    "category": "Development",
+    "instructor": "Brooklyn Simmons",
+    "price": 600,
+    "currency": "USD",
+    "image": "assets/image/instructors/Brooklyn_Simmons.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Human Resources – Selection and Recruitment",
+    "category": "HR & Recruting",
+    "instructor": "Kathryn Murphy",
+    "price": 150,
+    "currency": "USD",
+    "image": "assets/image/instructors/Kathryn_Murphy.jpg"
+  },
+  {
+    "id": "18",
+    "title": "User Experience. Human-centered Design",
+    "category": "Design",
+    "instructor": "Cody Fisher",
+    "price": 240,
+    "currency": "USD",
+    "image": "assets/image/instructors/Cody_Fisher.jpg"
+  }
+]
