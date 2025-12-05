@@ -1,13 +1,13 @@
-import { coursesData, renderProducts } from "./main.js";
+import { coursesData, setFilteredCourses } from "./main.js";
 
 function filterCourses(category) {
   if (category === "all") {
-    renderProducts(coursesData);
+    setFilteredCourses([...coursesData]);
   } else {
     const filtered = coursesData.filter((course) =>
       course.category.toLowerCase().includes(category.toLowerCase())
     );
-    renderProducts(filtered);
+    setFilteredCourses(filtered);
   }
 }
 
