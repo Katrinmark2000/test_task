@@ -17,7 +17,7 @@
 .hero__container {
   padding-top: 1.4rem;
   max-width: 1240px;
-    margin-bottom: 80px;
+  margin-bottom: 80px;
 }
 .hero__badge {
   font-size: clamp(0.8rem, 2vw, 1rem);
@@ -131,12 +131,12 @@ padding: 0.5rem 1rem;
   background-color: #7772F1;
 }
 .card__img {
-    width: 100%;
+  width: 100%;
 }
 .card__title {
-    font-size: 20px;
-   padding: 20px 0;
-    font-family: var(--font-Lato-regular);
+  font-size: 20px;
+  padding: 20px 0;
+  font-family: var(--font-Lato-regular);
 }
 .card__price {
   color: var(--accent-color);

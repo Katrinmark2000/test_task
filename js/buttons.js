@@ -12,7 +12,7 @@ export const buttonsGenerated = () => {
   filtersContainer.innerHTML = categories
     .map(
       (cat) => `
-      <button type="button" data-category="${cat.value}" class="${
+      <button type="button" data-category="${cat.value}" id="{cat.value}" class="${
         cat.value === "all" ? "active" : ""
       }">
         ${cat.name}<span class="count"></span>

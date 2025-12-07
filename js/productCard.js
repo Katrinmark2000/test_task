@@ -11,7 +11,7 @@ export function ProductCard({
   const currencySymbol = currency === "USD" ? "$" : currency;
 
   card.querySelector(".card__img").src = image;
-  card.querySelector(".card__img").alt = `фото инструктора ${instructor}`;
+  card.querySelector(".card__img").alt = `Photo of ${instructor}`;
   card.querySelector(".card__title").textContent = title;
   card.querySelector(".card__price").textContent = `${currencySymbol}${price}`;
   card.querySelector(".card__author").textContent = `| by ${instructor}`;
